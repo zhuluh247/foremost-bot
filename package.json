@@ -1,0 +1,10 @@
+{
+  "name": "foremost-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
